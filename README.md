@@ -16,7 +16,7 @@ Pre-final year B.Tech student at GEC Ajmer, building toward AI/ML engineering. I
 - **Trader performance analysis** – 211K+ trades, XGBoost (AUC ~0.89) with SHAP explainability
 
 
-### 🎯 Focus areas
+###  Focus areas
  
 - **AI Agents** – Plan-and-Execute, multi-agent workflows, tool routing, LangGraph
 - **RAG** – policy retrieval and grounded responses for support workflows
