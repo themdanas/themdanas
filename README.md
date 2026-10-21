@@ -1,6 +1,6 @@
 ### Hey, I'm MD 👋
 
-Pre-final year B.Tech student at GEC Ajmer, building toward AI/ML engineering. I learn by implementing things from scratch and writing about what I find.
+Final year B.Tech student at GEC Ajmer, building toward AI/ML engineering. I learn by implementing things from scratch and writing about what I find.
 
 
 ###  What I'm building
@@ -29,8 +29,5 @@ Pre-final year B.Tech student at GEC Ajmer, building toward AI/ML engineering. I
 
 `Python` `PyTorch` `Transformers` `PEFT / TRL` `LangGraph` `XGBoost` `FastAPI` `Docker`
 
-### 📫 Find me
-
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL)
 
 *Open to fresher AI/ML engineering roles.*
