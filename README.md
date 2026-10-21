@@ -29,6 +29,6 @@ Final year B.Tech student at GEC Ajmer, building toward AI/ML engineering. I lea
 
 `Python` `PyTorch` `Transformers` `PEFT / TRL` `LangGraph` `XGBoost` `FastAPI` `Docker`
 
-[LinkedIn][(https://www.linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BpcE%2BfzbrQ%2FKveMRW8nH5zQ%3D%3D)) · [Email](mailto:anasthemd@gmail.com)
+[LinkedIn][](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BpcE%2BfzbrQ%2FKveMRW8nH5zQ%3D%3D)) · [Email](mailto:anasthemd@gmail.com)
 
 *Open to fresher AI/ML engineering roles.*
