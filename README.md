@@ -1,4 +1,4 @@
-### Hey, I'm MD 👋
+### Hey, I'm Anas
 
 Final year B.Tech student at GEC Ajmer, building toward AI/ML engineering. I learn by implementing things from scratch and writing about what I find.
 
