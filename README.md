@@ -25,7 +25,7 @@ Final year B.Tech student at GEC Ajmer, building toward AI/ML engineering. I lea
 - **Generative Models** – diffusion models (DDPM), VAEs
 - **Machine Learning** – XGBoost, explainability with SHAP, deep learning (CNNs, AN
 
-### 🛠 Stack
+###  Stack
 
 `Python` `PyTorch` `Transformers` `PEFT / TRL` `LangGraph` `XGBoost` `FastAPI` `Docker`
 
